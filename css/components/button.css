@@ -1,0 +1,8 @@
+.bttn-green {
+  background-color: rgb(69 206 120);
+  color: white;
+  padding: 16px;
+  border-radius: 32px;
+  padding-right: 32px;
+  padding-left: 32px;
+}

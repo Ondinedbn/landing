@@ -1,0 +1,29 @@
+.card-apply {
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #e1e1e1;
+  text-align: center;
+  padding: 20px;
+  width: 200px;
+  font-size: smaller;
+}
+
+.card-learn {
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #e1e1e1;
+  text-align: center;
+  padding: 20px;
+  width: 200px;
+  font-size: smaller;
+}
+
+.card-build {
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px #e1e1e1;
+  text-align: center;
+  padding: 20px;
+  width: 200px;
+  font-size: smaller;
+}
